@@ -1,4 +1,9 @@
 # ASL-Interpreter
-A simple AI to interpret ASL signs from a video
+
+
+AI4ASL is a recurrent neural network that can identify American Sign Language hand signs in videos and images and autodeocde them.
 <br>
-Will upload soon
+This system can deocde up to 60WPM hand signs, as well as mixed signs.
+<br>
+
+It will be uploaded soon
